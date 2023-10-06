@@ -10,7 +10,6 @@ This Python script scrapes product information from Amazon's website. Please not
 
 ## Prerequisites
 - Python 3.x
-- Required libraries (mention any libraries or dependencies here)
-
+- BS4,MYSQL Connector
 ## Known Issues
 - The code may not work with the latest Amazon website structure.
